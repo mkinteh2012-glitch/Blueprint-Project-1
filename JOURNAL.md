@@ -10,8 +10,20 @@ This is my journal of the design and building process of **Alarm system V1**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/242).
 
 
-## 10/9/2025 - Setup + Design Part 1  
+## 10/9/2025 3 AM - Setup + Design Part 1  
 
 I started getting to work on the alarm,  I drew a few images of my ideas, and then I got set up. It was hard for absolutely, thinking about using other things like face and sound sensors. I tested some of these but they seem like they are not very precise so im using a 4 by 4 key pad to enter the code. My next step is probably learning a bit of Kicad and doing some tutorial, I stared working on the alarm in Tinkercad I have to redo wiring thats why there none in the picture. I'll work on programing soon. The next steps are to progam the base model and wire it. ![Screenshot 2025-10-08 204840.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f477a9483c7e10370e151fc7c48d21297a2d6917/Screenshot%202025-10-08%20204840.png)
+  
+
+## 10/9/2025 2 PM - Design  
+
+I decided to move from a key module to and 4 by 4 pad. I didn't mention that in my first entry. So I started cost calculations to keep it as cheap as possible. This is also why I moved from a key module to an 4 by 4 so far I need
+
+1. An arduino r3 nano doesn't have enough pins
+2. LCD 2 by 16
+3. 4 by 4 matrix keypad
+4. buzzer
+5. red and green LED
+6![WIN_20251009_07_23_52_Pro.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c9d7dbe979c0ba4f83aab64c3f5512f8127742da/WIN_20251009_07_23_52_Pro.jpg)
   
 
