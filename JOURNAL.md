@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Alarm system V1**.  
+This is my journal of the design and building process of **Vault V1**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/242).
 
 
@@ -32,8 +32,13 @@ I decided to move from a key module to and 4 by 4 pad. I didn't mention that in 
 I fixed my mistakes in the wiring and got inspiration from some videos https://www.youtube.com/shorts/R63Q5_ygemM. I decided to make it spin a servo motor so it can spin a gear I will attach to it. I also made a schematic and figured out my the materials I will need next is learning Kicad and making the PCB, I didn't think it would take me too long but this took me almost 3 hour![Screenshot 2025-10-09 203204.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f88cf1ca01244144440af769e118019da52c4831/Screenshot%202025-10-09%20203204.png)
   
 
-## 10/12/2025 - Changed the design  
+## 10/12/2025 5 PM - Changed the design  
 
 decided to turn it from a house alarm to a vault, I realized while driving to my soccer game (6-0 light work) that the servo could snag a door in locked position so I decided to make it a vault. I don't need to make any changes to my design so next is learning Kicad. I might be cooked . . . ![WIN_20251012_17_43_44_Pro.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkxMywicHVyIjoiYmxvYl9pZCJ9fQ==--c60274ab1b682366e2f2b2d455c1dba4ccbced22/WIN_20251012_17_43_44_Pro.jpg)
+  
+
+## 10/12/2025 8 PM - Learned Kicad  
+
+Got on the Kicad grind, locked in, and made some stuff. I followed a tutorial, It was easier that expected but I made some dumb ahh mistakes so it took a while next, i'll make the PCB, and then I'm done. I'm planning on finishing by Wednesday this week.![Screenshot 2025-10-12 203814.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ade544b8ff8d0746fa9e1337712897c128f43fc/Screenshot%202025-10-12%20203814.png)
   
 
