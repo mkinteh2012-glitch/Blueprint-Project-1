@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Vault V1**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/242).
-
-
 ## 10/8/2025 - Setup + Design Part 1  
 
 I started getting to work on the alarm,  I drew a few images of my ideas, and then I got set up. It was hard for absolutely, thinking about using other things like face and sound sensors. I tested some of these but they seem like they are not very precise so im using a 4 by 4 key pad to enter the code. My next step is probably learning a bit of Kicad and doing some tutorial, I stared working on the alarm in Tinkercad I have to redo wiring thats why there none in the picture. I'll work on programing soon. The next steps are to progam the base model and wire it. ![Screenshot 2025-10-08 204840.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--f477a9483c7e10370e151fc7c48d21297a2d6917/Screenshot%202025-10-08%20204840.png)
@@ -40,5 +36,10 @@ decided to turn it from a house alarm to a vault, I realized while driving to my
 ## 10/12/2025 8 PM - Learned Kicad  
 
 Got on the Kicad grind, locked in, and made some stuff. I followed a tutorial, It was easier that expected but I made some dumb ahh mistakes so it took a while next, i'll make the PCB, and then I'm done. I'm planning on finishing by Wednesday this week.![Screenshot 2025-10-12 203814.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ade544b8ff8d0746fa9e1337712897c128f43fc/Screenshot%202025-10-12%20203814.png)
+  
+
+## 10/24/2025 - Last few thing  
+
+I did the last few steps I wrote my READ.me file and uploaded what i need I won't be buying a PCB and will use my own money to get the parts all I need is a servo motor, I really enjoyed doing this going back and reading my logs gives me a sense of completion I have all my parts to build the vault ready even though I think i'll have to fix something.![WIN_20251024_17_18_21_Pro](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d55ce9bf95aa0e31369365c4f34a0ce2a7478c4/WIN_20251024_17_18_21_Pro.jpg)
   
 
